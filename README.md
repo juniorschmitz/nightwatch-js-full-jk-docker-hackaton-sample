@@ -1,4 +1,4 @@
-Project created using nightwatch js just for training, the idea is to use the Selenium with pure JS after the training.
+Project created for the Hackaton Applitools 2019, the main idea was to use NightwatchJS for creating the first tests and see how the application worked, and them, create the full JS + Selenium project.
 
 For installing the dependencies:
 ```
